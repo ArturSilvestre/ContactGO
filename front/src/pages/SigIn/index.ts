@@ -5,9 +5,6 @@ import { Container, Content,  } from './styles';
 
 const SigIn: React.FC = () => {
   <Container>
-    <Context>
-
-    </Content>
   </Container>
 }
 
